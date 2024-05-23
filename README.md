@@ -1,6 +1,6 @@
   # Hello,Welcome 👋
 - 👋 Hi, I’m @MahaswetaBhowmik
-- 😄I am currently pursuing **BTech** **EE** at [**AOT**,**Hooghly**](https://aot.edu.in/).
+- 😄I am currently pursuing **B.Tech** in **ELECTRICAL ENGINEERING** at [**AOT**,**Hooghly**](https://aot.edu.in/).
 - 👀 I’m interested in gaining new knowledge.I am an avid coding enthusiast and on my way to enhance my overall coding skills.
 >[!NOTE]
 > 🌱 I’m currently learning [**PYTHON**] , [**CSS**] and [**MySQL**] .

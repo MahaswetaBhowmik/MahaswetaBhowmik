@@ -1,7 +1,7 @@
   # Hello,Welcome 👋
 - 🙋‍♀️ Hi, I’m @MahaswetaBhowmik
 - 😄I am currently pursuing **B.Tech** in **ELECTRICAL ENGINEERING** at [**ACADEMY OF TECHNOLOGY,HOOGHLY**](https://aot.edu.in/).
-- 📑 I am an avid coding enthusiast and on my way to enhance my overall coding skills and gain vast knowledge about the various Electronic Circuitry.
+- 📑 I am an avid coding enthusiast and on my way to enhance my overall coding skills and gain vast knowledge about Embedded System , IoT, AI/ML , Quantum Computing , Robotics and various emerging Industrial innovations.
 - I am always open to learn new things and gain experiences and knowledge.
 >[!NOTE]
 >- 😟 I’m currently learning [**PYTHON**](https://www.python.org/) , [**CSS**] and [**MySQL**] .
